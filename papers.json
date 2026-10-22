@@ -20,7 +20,29 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Computational, Structural & Biophysical Methods",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/4/32"
+      "url": "https://www.mdpi.com/2813-2564/5/4/32",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "ui": "D001185",
+          "name": "Artificial Intelligence"
+        },
+        {
+          "ui": "D062105",
+          "name": "Molecular Docking Simulation"
+        },
+        {
+          "ui": "D008024",
+          "name": "Ligands"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5040031",
@@ -40,7 +62,42 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Ligand-Gated Ion Channels (Glutamate, GABA, Nicotinic)",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/4/31"
+      "url": "https://www.mdpi.com/2813-2564/5/4/31",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D017470",
+          "name": "Receptors, Glutamate"
+        },
+        {
+          "ui": "D009435",
+          "name": "Synaptic Transmission"
+        },
+        {
+          "ui": "D009473",
+          "name": "Neuronal Plasticity"
+        },
+        {
+          "ui": "D019143",
+          "name": "Evolution, Molecular"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 75,
+          "name": "Ionotropic glutamate receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=75"
+        },
+        {
+          "id": 40,
+          "name": "Metabotropic glutamate receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=40"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5030030",
@@ -63,7 +120,25 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Cannabinoid Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/30"
+      "url": "https://www.mdpi.com/2813-2564/5/3/30",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D006624",
+          "name": "Hippocampus"
+        },
+        {
+          "ui": "D058256",
+          "name": "Brain Waves"
+        },
+        {
+          "ui": "D002186",
+          "name": "Cannabinoids"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5030029",
@@ -79,7 +154,29 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Ligand-Gated Ion Channels (Glutamate, GABA, Nicotinic)",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/29"
+      "url": "https://www.mdpi.com/2813-2564/5/3/29",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D005680",
+          "name": "gamma-Aminobutyric Acid"
+        },
+        {
+          "ui": "D018079",
+          "name": "Receptors, GABA"
+        },
+        {
+          "ui": "D010526",
+          "name": "Periplaneta"
+        },
+        {
+          "ui": "D004331",
+          "name": "Drosophila melanogaster"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5030028",
@@ -103,7 +200,36 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Tumor Immunity & Cell Therapies",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/28"
+      "url": "https://www.mdpi.com/2813-2564/5/3/28",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D053261",
+          "name": "Tumor Necrosis Factor Receptor Superfamily, Member 9"
+        },
+        {
+          "ui": "D053262",
+          "name": "Receptors, OX40"
+        },
+        {
+          "ui": "D002583",
+          "name": "Uterine Cervical Neoplasms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1878,
+          "name": "4-1BB",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1878"
+        },
+        {
+          "id": 1873,
+          "name": "OX40",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1873"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5030027",
@@ -121,7 +247,29 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Tumor Immunity & Cell Therapies",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/27"
+      "url": "https://www.mdpi.com/2813-2564/5/3/27",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000076962",
+          "name": "Receptors, Chimeric Antigen"
+        },
+        {
+          "ui": "D016219",
+          "name": "Immunotherapy, Adoptive"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5030026",
@@ -143,7 +291,33 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Cardiovascular & Hemostasis",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/26"
+      "url": "https://www.mdpi.com/2813-2564/5/3/26",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000093342",
+          "name": "Prorenin Receptor"
+        },
+        {
+          "ui": "D012084",
+          "name": "Renin-Angiotensin System"
+        },
+        {
+          "ui": "D002318",
+          "name": "Cardiovascular Diseases"
+        },
+        {
+          "ui": "D007674",
+          "name": "Kidney Diseases"
+        },
+        {
+          "ui": "D008659",
+          "name": "Metabolic Diseases"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5030025",
@@ -165,7 +339,32 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Pattern Recognition Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/25"
+      "url": "https://www.mdpi.com/2813-2564/5/3/25",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D051193",
+          "name": "Toll-Like Receptors"
+        },
+        {
+          "ui": "D005399",
+          "name": "Fishes"
+        },
+        {
+          "ui": "D007113",
+          "name": "Immunity, Innate"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 316,
+          "name": "Toll-like receptor family",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=316"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5030024",
@@ -181,7 +380,44 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Other Neural Receptor Systems",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/24"
+      "url": "https://www.mdpi.com/2813-2564/5/3/24",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D005938",
+          "name": "Glucocorticoids"
+        },
+        {
+          "ui": "D011965",
+          "name": "Receptors, Glucocorticoid"
+        },
+        {
+          "ui": "D018161",
+          "name": "Receptors, Mineralocorticoid"
+        },
+        {
+          "ui": "D009473",
+          "name": "Neuronal Plasticity"
+        },
+        {
+          "ui": "D001921",
+          "name": "Brain"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 625,
+          "name": "Glucocorticoid receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=625"
+        },
+        {
+          "id": 626,
+          "name": "Mineralocorticoid receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=626"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5030023",
@@ -199,7 +435,35 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Pattern Recognition Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/23"
+      "url": "https://www.mdpi.com/2813-2564/5/3/23",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000070576",
+          "name": "NLR Proteins"
+        },
+        {
+          "ui": "D058847",
+          "name": "Inflammasomes"
+        },
+        {
+          "ui": "D007239",
+          "name": "Infections"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1773,
+          "name": "NLRP6",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1773"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5030022",
@@ -215,7 +479,29 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Other Neural Receptor Systems",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/3/22"
+      "url": "https://www.mdpi.com/2813-2564/5/3/22",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D013569",
+          "name": "Synapses"
+        },
+        {
+          "ui": "D009473",
+          "name": "Neuronal Plasticity"
+        },
+        {
+          "ui": "D009435",
+          "name": "Synaptic Transmission"
+        },
+        {
+          "ui": "D009157",
+          "name": "Myasthenia Gravis"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020021",
@@ -236,7 +522,35 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Dopamine Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/21"
+      "url": "https://www.mdpi.com/2813-2564/5/2/21",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D050637",
+          "name": "Receptors, Dopamine D3"
+        },
+        {
+          "ui": "D010300",
+          "name": "Parkinson Disease"
+        },
+        {
+          "ui": "D000066829",
+          "name": "Neuroprotection"
+        },
+        {
+          "ui": "D054313",
+          "name": "Drug Agonism"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 216,
+          "name": "D3 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=216"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5020020",
@@ -252,7 +566,21 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Other Systemic Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/20"
+      "url": "https://www.mdpi.com/2813-2564/5/2/20",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018035",
+          "name": "Receptors, Odorant"
+        },
+        {
+          "ui": "D015870",
+          "name": "Gene Expression"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020019",
@@ -274,7 +602,36 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Other Receptor Targets in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/19"
+      "url": "https://www.mdpi.com/2813-2564/5/2/19",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D007473",
+          "name": "Ion Channels"
+        },
+        {
+          "ui": "D001943",
+          "name": "Breast Neoplasms"
+        },
+        {
+          "ui": "D040542",
+          "name": "Mechanotransduction, Cellular"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 2945,
+          "name": "Piezo1",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2945"
+        },
+        {
+          "id": 2946,
+          "name": "Piezo2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2946"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5020018",
@@ -290,7 +647,29 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Tumor Immunity & Cell Therapies",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/18"
+      "url": "https://www.mdpi.com/2813-2564/5/2/18",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000082082",
+          "name": "Immune Checkpoint Inhibitors"
+        },
+        {
+          "ui": "D014565",
+          "name": "Urogenital Neoplasms"
+        },
+        {
+          "ui": "D007167",
+          "name": "Immunotherapy"
+        },
+        {
+          "ui": "D014408",
+          "name": "Biomarkers, Tumor"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020017",
@@ -316,7 +695,44 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Viral Receptors & Host–Pathogen Interactions",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/17"
+      "url": "https://www.mdpi.com/2813-2564/5/2/17",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000085962",
+          "name": "Angiotensin-Converting Enzyme 2"
+        },
+        {
+          "ui": "D012697",
+          "name": "Serine Endopeptidases"
+        },
+        {
+          "ui": "D000086402",
+          "name": "SARS-CoV-2"
+        },
+        {
+          "ui": "D000086382",
+          "name": "COVID-19"
+        },
+        {
+          "ui": "D059002",
+          "name": "Androgen Receptor Antagonists"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1614,
+          "name": "Angiotensin-converting enzyme 2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1614"
+        },
+        {
+          "id": 2421,
+          "name": "transmembrane serine protease 2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2421"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5020016",
@@ -336,7 +752,25 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Inflammation & Immune Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/16"
+      "url": "https://www.mdpi.com/2813-2564/5/2/16",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D020381",
+          "name": "Interleukin-17"
+        },
+        {
+          "ui": "D058504",
+          "name": "Th17 Cells"
+        },
+        {
+          "ui": "D015213",
+          "name": "Neuroimmunomodulation"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020015",
@@ -357,7 +791,31 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Other Neural Receptor Systems",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/15"
+      "url": "https://www.mdpi.com/2813-2564/5/2/15",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D017450",
+          "name": "Receptors, Opioid, mu"
+        },
+        {
+          "ui": "D009842",
+          "name": "Oligopeptides"
+        },
+        {
+          "ui": "D056004",
+          "name": "Molecular Dynamics Simulation"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 319,
+          "name": "μ receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=319"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5020014",
@@ -375,7 +833,29 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Pattern Recognition Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/14"
+      "url": "https://www.mdpi.com/2813-2564/5/2/14",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000755",
+          "name": "Anemia, Sickle Cell"
+        },
+        {
+          "ui": "D051192",
+          "name": "Receptors, Pattern Recognition"
+        },
+        {
+          "ui": "D007249",
+          "name": "Inflammation"
+        },
+        {
+          "ui": "D006461",
+          "name": "Hemolysis"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020013",
@@ -392,7 +872,25 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Other Systemic Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/13"
+      "url": "https://www.mdpi.com/2813-2564/5/2/13",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D008550",
+          "name": "Melatonin"
+        },
+        {
+          "ui": "D044094",
+          "name": "Receptors, Melatonin"
+        },
+        {
+          "ui": "D000975",
+          "name": "Antioxidants"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020012",
@@ -411,7 +909,29 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Nuclear Receptors in Metabolism & Differentiation",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/12"
+      "url": "https://www.mdpi.com/2813-2564/5/2/12",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018160",
+          "name": "Receptors, Cytoplasmic and Nuclear"
+        },
+        {
+          "ui": "D004032",
+          "name": "Diet"
+        },
+        {
+          "ui": "D008659",
+          "name": "Metabolic Diseases"
+        },
+        {
+          "ui": "D047492",
+          "name": "Peroxisome Proliferator-Activated Receptors"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020011",
@@ -432,7 +952,29 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Obesity, Diabetes & Metabolic Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/11"
+      "url": "https://www.mdpi.com/2813-2564/5/2/11",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D016207",
+          "name": "Cytokines"
+        },
+        {
+          "ui": "D008659",
+          "name": "Metabolic Diseases"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D015398",
+          "name": "Signal Transduction"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5020010",
@@ -452,7 +994,31 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Nuclear Receptors in Metabolism & Differentiation",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/2/10"
+      "url": "https://www.mdpi.com/2813-2564/5/2/10",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018167",
+          "name": "Receptors, Calcitriol"
+        },
+        {
+          "ui": "D007473",
+          "name": "Ion Channels"
+        },
+        {
+          "ui": "D014807",
+          "name": "Vitamin D"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 605,
+          "name": "Vitamin D receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=605"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5010009",
@@ -475,7 +1041,32 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Other Neural Receptor Systems",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/9"
+      "url": "https://www.mdpi.com/2813-2564/5/1/9",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000081025",
+          "name": "Sphingosine-1-Phosphate Receptors"
+        },
+        {
+          "ui": "D000081243",
+          "name": "Sphingosine 1 Phosphate Receptor Modulators"
+        },
+        {
+          "ui": "D002490",
+          "name": "Central Nervous System"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 135,
+          "name": "Lysophospholipid (S1P) receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=135"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5010008",
@@ -495,7 +1086,43 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Reproductive Endocrinology",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/8"
+      "url": "https://www.mdpi.com/2813-2564/5/1/8",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011374",
+          "name": "Progesterone"
+        },
+        {
+          "ui": "D011980",
+          "name": "Receptors, Progesterone"
+        },
+        {
+          "ui": "D008116",
+          "name": "Lizards"
+        },
+        {
+          "ui": "D012911",
+          "name": "Snakes"
+        },
+        {
+          "ui": "D052286",
+          "name": "Viviparity, Nonmammalian"
+        },
+        {
+          "ui": "D012098",
+          "name": "Reproduction"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 627,
+          "name": "Progesterone receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=627"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5010007",
@@ -512,7 +1139,36 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Ligand-Gated Ion Channels (Glutamate, GABA, Nicotinic)",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/7"
+      "url": "https://www.mdpi.com/2813-2564/5/1/7",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000087443",
+          "name": "Three Finger Toxins"
+        },
+        {
+          "ui": "D011978",
+          "name": "Receptors, Nicotinic"
+        },
+        {
+          "ui": "D012910",
+          "name": "Snake Venoms"
+        },
+        {
+          "ui": "D019143",
+          "name": "Evolution, Molecular"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 76,
+          "name": "Nicotinic acetylcholine receptors  (nACh)",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=76"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5010006",
@@ -534,7 +1190,35 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Viral Receptors & Host–Pathogen Interactions",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/6"
+      "url": "https://www.mdpi.com/2813-2564/5/1/6",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D005760",
+          "name": "Transmissible gastroenteritis virus"
+        },
+        {
+          "ui": "D064370",
+          "name": "Spike Glycoprotein, Coronavirus"
+        },
+        {
+          "ui": "D018826",
+          "name": "CD13 Antigens"
+        },
+        {
+          "ui": "D053586",
+          "name": "Virus Internalization"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1560,
+          "name": "Aminopeptidase N",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1560"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5010004",
@@ -555,7 +1239,35 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Steroid Hormone Receptors in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/4"
+      "url": "https://www.mdpi.com/2813-2564/5/1/4",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000074290",
+          "name": "Zinc Finger Protein Gli3"
+        },
+        {
+          "ui": "D011944",
+          "name": "Receptors, Androgen"
+        },
+        {
+          "ui": "D053823",
+          "name": "Hedgehog Proteins"
+        },
+        {
+          "ui": "D011471",
+          "name": "Prostatic Neoplasms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 628,
+          "name": "Androgen receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=628"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5010005",
@@ -572,7 +1284,25 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Nuclear Receptors in Metabolism & Differentiation",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/5"
+      "url": "https://www.mdpi.com/2813-2564/5/1/5",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D059630",
+          "name": "Mesenchymal Stem Cells"
+        },
+        {
+          "ui": "D018160",
+          "name": "Receptors, Cytoplasmic and Nuclear"
+        },
+        {
+          "ui": "D002454",
+          "name": "Cell Differentiation"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5010003",
@@ -589,7 +1319,36 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Inflammation & Immune Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/3"
+      "url": "https://www.mdpi.com/2813-2564/5/1/3",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D057105",
+          "name": "Nuclear Receptor Subfamily 4, Group A, Member 1"
+        },
+        {
+          "ui": "D007109",
+          "name": "Immunity"
+        },
+        {
+          "ui": "D007249",
+          "name": "Inflammation"
+        },
+        {
+          "ui": "D009490",
+          "name": "Neurosecretory Systems"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 99,
+          "name": "4A. Nerve growth factor IB-like receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=99"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors5010001",
@@ -607,7 +1366,25 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Other Neural Receptor Systems",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/1"
+      "url": "https://www.mdpi.com/2813-2564/5/1/1",
+      "pmid": "41725679",
+      "pmcid": "PMC12922683",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D017527",
+          "name": "Receptor, IGF Type 2"
+        },
+        {
+          "ui": "D001921",
+          "name": "Brain"
+        },
+        {
+          "ui": "D051379",
+          "name": "Mice"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors5010002",
@@ -629,7 +1406,25 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Other Neural Receptor Systems",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/5/1/2"
+      "url": "https://www.mdpi.com/2813-2564/5/1/2",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D001253",
+          "name": "Astrocytes"
+        },
+        {
+          "ui": "D001479",
+          "name": "Basal Ganglia"
+        },
+        {
+          "ui": "D017981",
+          "name": "Receptors, Neurotransmitter"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4040024",
@@ -652,7 +1447,56 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Other Systemic Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/4/24"
+      "url": "https://www.mdpi.com/2813-2564/4/4/24",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D050916",
+          "name": "TRPV Cation Channels"
+        },
+        {
+          "ui": "D041981",
+          "name": "Gastrointestinal Tract"
+        },
+        {
+          "ui": "D005767",
+          "name": "Gastrointestinal Diseases"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 507,
+          "name": "TRPV1",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=507"
+        },
+        {
+          "id": 508,
+          "name": "TRPV2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=508"
+        },
+        {
+          "id": 509,
+          "name": "TRPV3",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=509"
+        },
+        {
+          "id": 510,
+          "name": "TRPV4",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=510"
+        },
+        {
+          "id": 511,
+          "name": "TRPV5",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=511"
+        },
+        {
+          "id": 512,
+          "name": "TRPV6",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=512"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4040023",
@@ -668,7 +1512,35 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Tachykinin (NK1) Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/4/23"
+      "url": "https://www.mdpi.com/2813-2564/4/4/23",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018040",
+          "name": "Receptors, Neurokinin-1"
+        },
+        {
+          "ui": "D005347",
+          "name": "Fibroblasts"
+        },
+        {
+          "ui": "D005355",
+          "name": "Fibrosis"
+        },
+        {
+          "ui": "D014945",
+          "name": "Wound Healing"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 360,
+          "name": "NK1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=360"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4040022",
@@ -684,7 +1556,36 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Cannabinoid Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/4/22"
+      "url": "https://www.mdpi.com/2813-2564/4/4/22",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D002186",
+          "name": "Cannabinoids"
+        },
+        {
+          "ui": "D063388",
+          "name": "Endocannabinoids"
+        },
+        {
+          "ui": "D012164",
+          "name": "Retinal Diseases"
+        },
+        {
+          "ui": "D000066829",
+          "name": "Neuroprotection"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 13,
+          "name": "Cannabinoid receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=13"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4040021",
@@ -701,7 +1602,29 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Cardiovascular & Hemostasis",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/4/21"
+      "url": "https://www.mdpi.com/2813-2564/4/4/21",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D006487",
+          "name": "Hemostasis"
+        },
+        {
+          "ui": "D018384",
+          "name": "Oxidative Stress"
+        },
+        {
+          "ui": "D013927",
+          "name": "Thrombosis"
+        },
+        {
+          "ui": "D001792",
+          "name": "Blood Platelets"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4040020",
@@ -718,7 +1641,39 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Other Systemic Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/4/20"
+      "url": "https://www.mdpi.com/2813-2564/4/4/20",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D002080",
+          "name": "Butterflies"
+        },
+        {
+          "ui": "D014921",
+          "name": "Wings, Animal"
+        },
+        {
+          "ui": "D007473",
+          "name": "Ion Channels"
+        },
+        {
+          "ui": "D010858",
+          "name": "Pigmentation"
+        },
+        {
+          "ui": "D040542",
+          "name": "Mechanotransduction, Cellular"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 2945,
+          "name": "Piezo1",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2945"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4040019",
@@ -736,7 +1691,25 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Obesity, Diabetes & Metabolic Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/4/19"
+      "url": "https://www.mdpi.com/2813-2564/4/4/19",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D050156",
+          "name": "Adipogenesis"
+        },
+        {
+          "ui": "D017667",
+          "name": "Adipocytes"
+        },
+        {
+          "ui": "D041721",
+          "name": "3T3-L1 Cells"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4040018",
@@ -758,7 +1731,36 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Receptor Tyrosine Kinases",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/4/18"
+      "url": "https://www.mdpi.com/2813-2564/4/4/18",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D066246",
+          "name": "ErbB Receptors"
+        },
+        {
+          "ui": "D004195",
+          "name": "Disease Models, Animal"
+        },
+        {
+          "ui": "D058990",
+          "name": "Molecular Targeted Therapy"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1797,
+          "name": "epidermal growth factor receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1797"
+        },
+        {
+          "id": 2019,
+          "name": "erb-b2 receptor tyrosine kinase 2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2019"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4030017",
@@ -788,7 +1790,48 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Inflammation & Immune Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/3/17"
+      "url": "https://www.mdpi.com/2813-2564/4/3/17",
+      "pmid": "41552710",
+      "pmcid": "PMC12807514",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D054769",
+          "name": "G-Protein-Coupled Receptor Kinase 2"
+        },
+        {
+          "ui": "D054421",
+          "name": "Chemokine CCL21"
+        },
+        {
+          "ui": "D054400",
+          "name": "Receptors, CCR7"
+        },
+        {
+          "ui": "D013601",
+          "name": "T-Lymphocytes"
+        },
+        {
+          "ui": "D002465",
+          "name": "Cell Movement"
+        },
+        {
+          "ui": "D051966",
+          "name": "Phospholipase C gamma"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1466,
+          "name": "beta adrenergic receptor kinase 1",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1466"
+        },
+        {
+          "id": 64,
+          "name": "CCR7",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=64"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4030016",
@@ -805,7 +1848,63 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Reproductive Endocrinology",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/3/16"
+      "url": "https://www.mdpi.com/2813-2564/4/3/16",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011962",
+          "name": "Receptors, FSH"
+        },
+        {
+          "ui": "D011974",
+          "name": "Receptors, LH"
+        },
+        {
+          "ui": "D011944",
+          "name": "Receptors, Androgen"
+        },
+        {
+          "ui": "D007246",
+          "name": "Infertility"
+        },
+        {
+          "ui": "D009154",
+          "name": "Mutation"
+        },
+        {
+          "ui": "D027724",
+          "name": "Reproductive Techniques, Assisted"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 253,
+          "name": "FSH receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=253"
+        },
+        {
+          "id": 254,
+          "name": "LH receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=254"
+        },
+        {
+          "id": 628,
+          "name": "Androgen receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=628"
+        },
+        {
+          "id": 620,
+          "name": "Estrogen receptor-α",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=620"
+        },
+        {
+          "id": 621,
+          "name": "Estrogen receptor-β",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=621"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4030015",
@@ -827,7 +1926,21 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "GPCR Pharmacology & Biased Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/3/15"
+      "url": "https://www.mdpi.com/2813-2564/4/3/15",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D001896",
+          "name": "Boron Compounds"
+        },
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4030014",
@@ -843,7 +1956,29 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Computational, Structural & Biophysical Methods",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/3/14"
+      "url": "https://www.mdpi.com/2813-2564/4/3/14",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D004023",
+          "name": "Dictyostelium"
+        },
+        {
+          "ui": "D008962",
+          "name": "Models, Theoretical"
+        },
+        {
+          "ui": "D000242",
+          "name": "Cyclic AMP"
+        },
+        {
+          "ui": "D002633",
+          "name": "Chemotaxis"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4030013",
@@ -861,7 +1996,35 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Glucocorticoid & Mineralocorticoid Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/3/13"
+      "url": "https://www.mdpi.com/2813-2564/4/3/13",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018161",
+          "name": "Receptors, Mineralocorticoid"
+        },
+        {
+          "ui": "D055948",
+          "name": "Sarcopenia"
+        },
+        {
+          "ui": "D018482",
+          "name": "Muscle, Skeletal"
+        },
+        {
+          "ui": "D000375",
+          "name": "Aging"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 626,
+          "name": "Mineralocorticoid receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=626"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4030012",
@@ -878,7 +2041,33 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Neurological & Psychiatric Disorders",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/3/12"
+      "url": "https://www.mdpi.com/2813-2564/4/3/12",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D009940",
+          "name": "Organoids"
+        },
+        {
+          "ui": "D000927",
+          "name": "Anticonvulsants"
+        },
+        {
+          "ui": "D039904",
+          "name": "Pluripotent Stem Cells"
+        },
+        {
+          "ui": "D055808",
+          "name": "Drug Discovery"
+        },
+        {
+          "ui": "D012640",
+          "name": "Seizures"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4020011",
@@ -896,7 +2085,21 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Other Receptor Targets in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/2/11"
+      "url": "https://www.mdpi.com/2813-2564/4/2/11",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018035",
+          "name": "Receptors, Odorant"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4020010",
@@ -917,7 +2120,31 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Neurological & Psychiatric Disorders",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/2/10"
+      "url": "https://www.mdpi.com/2813-2564/4/2/10",
+      "pmid": "40475329",
+      "pmcid": "PMC12140076",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018260",
+          "name": "Gelsolin"
+        },
+        {
+          "ui": "D047629",
+          "name": "Estrogen Receptor beta"
+        },
+        {
+          "ui": "D000544",
+          "name": "Alzheimer Disease"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 621,
+          "name": "Estrogen receptor-β",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=621"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4020009",
@@ -936,7 +2163,25 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Other Receptor Targets in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/2/9"
+      "url": "https://www.mdpi.com/2813-2564/4/2/9",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D001943",
+          "name": "Breast Neoplasms"
+        },
+        {
+          "ui": "D008564",
+          "name": "Membrane Potentials"
+        },
+        {
+          "ui": "D007473",
+          "name": "Ion Channels"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4020008",
@@ -952,7 +2197,27 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Steroid Hormone Receptors in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/2/8"
+      "url": "https://www.mdpi.com/2813-2564/4/2/8",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011965",
+          "name": "Receptors, Glucocorticoid"
+        },
+        {
+          "ui": "D064726",
+          "name": "Triple Negative Breast Neoplasms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 625,
+          "name": "Glucocorticoid receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=625"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4010007",
@@ -973,7 +2238,39 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Ligand-Gated Ion Channels (Glutamate, GABA, Nicotinic)",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/1/7"
+      "url": "https://www.mdpi.com/2813-2564/4/1/7",
+      "pmid": "40678024",
+      "pmcid": "PMC12269802",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D064569",
+          "name": "alpha7 Nicotinic Acetylcholine Receptor"
+        },
+        {
+          "ui": "D000544",
+          "name": "Alzheimer Disease"
+        },
+        {
+          "ui": "D006624",
+          "name": "Hippocampus"
+        },
+        {
+          "ui": "D002038",
+          "name": "Bungarotoxins"
+        },
+        {
+          "ui": "D001345",
+          "name": "Autoradiography"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 468,
+          "name": "nicotinic acetylcholine receptor α7 subunit",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=468"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4010006",
@@ -989,7 +2286,25 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Computational, Structural & Biophysical Methods",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/1/6"
+      "url": "https://www.mdpi.com/2813-2564/4/1/6",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000069550",
+          "name": "Machine Learning"
+        },
+        {
+          "ui": "D021381",
+          "name": "Protein Transport"
+        },
+        {
+          "ui": "D021621",
+          "name": "Imaging, Three-Dimensional"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4010005",
@@ -1009,7 +2324,25 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Inflammation & Immune Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/1/5"
+      "url": "https://www.mdpi.com/2813-2564/4/1/5",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D007249",
+          "name": "Inflammation"
+        },
+        {
+          "ui": "D002908",
+          "name": "Chronic Disease"
+        },
+        {
+          "ui": "D008019",
+          "name": "Life Style"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors4010004",
@@ -1031,7 +2364,42 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Ligand-Gated Ion Channels (Glutamate, GABA, Nicotinic)",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/1/4"
+      "url": "https://www.mdpi.com/2813-2564/4/1/4",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D063928",
+          "name": "Ependymoglial Cells"
+        },
+        {
+          "ui": "D017470",
+          "name": "Receptors, Glutamate"
+        },
+        {
+          "ui": "D012160",
+          "name": "Retina"
+        },
+        {
+          "ui": "D019636",
+          "name": "Neurodegenerative Diseases"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 75,
+          "name": "Ionotropic glutamate receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=75"
+        },
+        {
+          "id": 40,
+          "name": "Metabotropic glutamate receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=40"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4010003",
@@ -1050,7 +2418,35 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Viral Receptors & Host–Pathogen Interactions",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/1/3"
+      "url": "https://www.mdpi.com/2813-2564/4/1/3",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D015497",
+          "name": "HIV-1"
+        },
+        {
+          "ui": "D019713",
+          "name": "Receptors, CCR5"
+        },
+        {
+          "ui": "D043262",
+          "name": "Ribonuclease P"
+        },
+        {
+          "ui": "D015658",
+          "name": "HIV Infections"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 62,
+          "name": "CCR5",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=62"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4010002",
@@ -1068,7 +2464,31 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Neurological & Psychiatric Disorders",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/1/2"
+      "url": "https://www.mdpi.com/2813-2564/4/1/2",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000067757",
+          "name": "Glucagon-Like Peptide-1 Receptor"
+        },
+        {
+          "ui": "D000097789",
+          "name": "Glucagon-Like Peptide-1 Receptor Agonists"
+        },
+        {
+          "ui": "D000544",
+          "name": "Alzheimer Disease"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 249,
+          "name": "GLP-1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=249"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors4010001",
@@ -1087,7 +2507,31 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Ligand-Gated Ion Channels (Glutamate, GABA, Nicotinic)",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/4/1/1"
+      "url": "https://www.mdpi.com/2813-2564/4/1/1",
+      "pmid": "40331132",
+      "pmcid": "PMC12051391",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011978",
+          "name": "Receptors, Nicotinic"
+        },
+        {
+          "ui": "D009538",
+          "name": "Nicotine"
+        },
+        {
+          "ui": "D014029",
+          "name": "Tobacco Use Disorder"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 467,
+          "name": "nicotinic acetylcholine receptor α6 subunit",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=467"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3040029",
@@ -1107,7 +2551,31 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "GPCR Pharmacology & Biased Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/29"
+      "url": "https://www.mdpi.com/2813-2564/3/4/29",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D049368",
+          "name": "Receptors, Lysophosphatidic Acid"
+        },
+        {
+          "ui": "D008246",
+          "name": "Lysophospholipids"
+        },
+        {
+          "ui": "D054313",
+          "name": "Drug Agonism"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 274,
+          "name": "LPA3 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=274"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3040028",
@@ -1125,7 +2593,37 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Cardiovascular & Hemostasis",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/28"
+      "url": "https://www.mdpi.com/2813-2564/3/4/28",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D020030",
+          "name": "Nitric Oxide Donors"
+        },
+        {
+          "ui": "D001011",
+          "name": "Aorta"
+        },
+        {
+          "ui": "D014664",
+          "name": "Vasodilation"
+        },
+        {
+          "ui": "D000071756",
+          "name": "Soluble Guanylyl Cyclase"
+        },
+        {
+          "ui": "D006152",
+          "name": "Cyclic GMP"
+        },
+        {
+          "ui": "D015221",
+          "name": "Potassium Channels"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3040027",
@@ -1141,7 +2639,21 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Receptor Theory & General",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/27"
+      "url": "https://www.mdpi.com/2813-2564/3/4/27",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000255",
+          "name": "Adenosine Triphosphate"
+        },
+        {
+          "ui": "D015398",
+          "name": "Signal Transduction"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3040026",
@@ -1159,7 +2671,45 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Cardiovascular & Hemostasis",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/26"
+      "url": "https://www.mdpi.com/2813-2564/3/4/26",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018002",
+          "name": "Receptors, Bradykinin"
+        },
+        {
+          "ui": "D011970",
+          "name": "Receptors, Histamine H2"
+        },
+        {
+          "ui": "D018384",
+          "name": "Oxidative Stress"
+        },
+        {
+          "ui": "D017382",
+          "name": "Reactive Oxygen Species"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 41,
+          "name": "B1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=41"
+        },
+        {
+          "id": 42,
+          "name": "B2 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=42"
+        },
+        {
+          "id": 263,
+          "name": "H2 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=263"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3040025",
@@ -1181,7 +2731,31 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Steroid Hormone Receptors in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/25"
+      "url": "https://www.mdpi.com/2813-2564/3/4/25",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011944",
+          "name": "Receptors, Androgen"
+        },
+        {
+          "ui": "D035683",
+          "name": "MicroRNAs"
+        },
+        {
+          "ui": "D011471",
+          "name": "Prostatic Neoplasms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 628,
+          "name": "Androgen receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=628"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3040024",
@@ -1208,7 +2782,45 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Other Receptor Targets in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/24"
+      "url": "https://www.mdpi.com/2813-2564/3/4/24",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D027283",
+          "name": "Large Neutral Amino Acid-Transporter 1"
+        },
+        {
+          "ui": "D026962",
+          "name": "Amino Acid Transport System ASC"
+        },
+        {
+          "ui": "D027182",
+          "name": "Amino Acid Transport System y+"
+        },
+        {
+          "ui": "D014571",
+          "name": "Urologic Neoplasms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 896,
+          "name": "L-type amino acid transporter 1",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=896"
+        },
+        {
+          "id": 874,
+          "name": "Alanine/serine/cysteine transporter 2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=874"
+        },
+        {
+          "id": 902,
+          "name": "Cystine/glutamate transporter",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=902"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3040023",
@@ -1233,7 +2845,35 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Receptor-Targeted Drug Delivery & Resistance",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/23"
+      "url": "https://www.mdpi.com/2813-2564/3/4/23",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D058975",
+          "name": "Folate Receptor 1"
+        },
+        {
+          "ui": "D006031",
+          "name": "Glycosylation"
+        },
+        {
+          "ui": "D011108",
+          "name": "Polymers"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 3212,
+          "name": "folate receptor alpha",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=3212"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3040022",
@@ -1254,7 +2894,44 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Steroid Hormone Receptors in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/22"
+      "url": "https://www.mdpi.com/2813-2564/3/4/22",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011944",
+          "name": "Receptors, Androgen"
+        },
+        {
+          "ui": "D011960",
+          "name": "Receptors, Estrogen"
+        },
+        {
+          "ui": "D011471",
+          "name": "Prostatic Neoplasms"
+        },
+        {
+          "ui": "D001943",
+          "name": "Breast Neoplasms"
+        },
+        {
+          "ui": "D019008",
+          "name": "Drug Resistance, Neoplasm"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 628,
+          "name": "Androgen receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=628"
+        },
+        {
+          "id": 620,
+          "name": "Estrogen receptor-α",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=620"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3040021",
@@ -1277,7 +2954,29 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Receptor-Targeted Drug Delivery & Resistance",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/4/21"
+      "url": "https://www.mdpi.com/2813-2564/3/4/21",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D019008",
+          "name": "Drug Resistance, Neoplasm"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D058990",
+          "name": "Molecular Targeted Therapy"
+        },
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3030020",
@@ -1297,7 +2996,25 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Nuclear Receptors in Metabolism & Differentiation",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/3/20"
+      "url": "https://www.mdpi.com/2813-2564/3/3/20",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D058207",
+          "name": "Sumoylation"
+        },
+        {
+          "ui": "D018160",
+          "name": "Receptors, Cytoplasmic and Nuclear"
+        },
+        {
+          "ui": "D011499",
+          "name": "Protein Processing, Post-Translational"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3030019",
@@ -1313,7 +3030,35 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Nuclear Receptors in Metabolism & Differentiation",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/3/19"
+      "url": "https://www.mdpi.com/2813-2564/3/3/19",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018167",
+          "name": "Receptors, Calcitriol"
+        },
+        {
+          "ui": "D014945",
+          "name": "Wound Healing"
+        },
+        {
+          "ui": "D013234",
+          "name": "Stem Cells"
+        },
+        {
+          "ui": "D004817",
+          "name": "Epidermis"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 605,
+          "name": "Vitamin D receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=605"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3030018",
@@ -1338,7 +3083,40 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Cannabinoid Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/3/18"
+      "url": "https://www.mdpi.com/2813-2564/3/3/18",
+      "pmid": "40376261",
+      "pmcid": "PMC12080992",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043884",
+          "name": "Receptor, Cannabinoid, CB1"
+        },
+        {
+          "ui": "D043885",
+          "name": "Receptor, Cannabinoid, CB2"
+        },
+        {
+          "ui": "D009154",
+          "name": "Mutation"
+        },
+        {
+          "ui": "D063386",
+          "name": "Cannabinoid Receptor Agonists"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 56,
+          "name": "CB1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=56"
+        },
+        {
+          "id": 57,
+          "name": "CB2 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=57"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3030017",
@@ -1362,7 +3140,29 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Obesity, Diabetes & Metabolic Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/3/17"
+      "url": "https://www.mdpi.com/2813-2564/3/3/17",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D009765",
+          "name": "Obesity"
+        },
+        {
+          "ui": "D050177",
+          "name": "Overweight"
+        },
+        {
+          "ui": "D001688",
+          "name": "Biological Products"
+        },
+        {
+          "ui": "D019440",
+          "name": "Anti-Obesity Agents"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3030016",
@@ -1386,7 +3186,33 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Receptor-Targeted Drug Delivery & Resistance",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/3/16"
+      "url": "https://www.mdpi.com/2813-2564/3/3/16",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D050997",
+          "name": "Nanomedicine"
+        },
+        {
+          "ui": "D016503",
+          "name": "Drug Delivery Systems"
+        },
+        {
+          "ui": "D053758",
+          "name": "Nanoparticles"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3030015",
@@ -1406,7 +3232,40 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "LXR & AhR Signaling in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/3/15"
+      "url": "https://www.mdpi.com/2813-2564/3/3/15",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000071518",
+          "name": "Liver X Receptors"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D055808",
+          "name": "Drug Discovery"
+        },
+        {
+          "ui": "D000970",
+          "name": "Antineoplastic Agents"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 602,
+          "name": "Liver X receptor-α",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=602"
+        },
+        {
+          "id": 601,
+          "name": "Liver X receptor-β",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=601"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3020014",
@@ -1424,7 +3283,25 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Other Systemic Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/14"
+      "url": "https://www.mdpi.com/2813-2564/3/2/14",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D014893",
+          "name": "Weightlessness"
+        },
+        {
+          "ui": "D001862",
+          "name": "Bone Resorption"
+        },
+        {
+          "ui": "D010024",
+          "name": "Osteoporosis"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3020013",
@@ -1445,7 +3322,33 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Viral Receptors & Host–Pathogen Interactions",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/13"
+      "url": "https://www.mdpi.com/2813-2564/3/2/13",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D010942",
+          "name": "Plant Viruses"
+        },
+        {
+          "ui": "D011991",
+          "name": "Receptors, Virus"
+        },
+        {
+          "ui": "D007303",
+          "name": "Insect Vectors"
+        },
+        {
+          "ui": "D054884",
+          "name": "Host-Pathogen Interactions"
+        },
+        {
+          "ui": "D010935",
+          "name": "Plant Diseases"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3020012",
@@ -1463,7 +3366,35 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Steroid Hormone Receptors in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/12"
+      "url": "https://www.mdpi.com/2813-2564/3/2/12",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D004967",
+          "name": "Estrogens"
+        },
+        {
+          "ui": "D019008",
+          "name": "Drug Resistance, Neoplasm"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 221,
+          "name": "GPER",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=221"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3020011",
@@ -1486,7 +3417,33 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Neurological & Psychiatric Disorders",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/11"
+      "url": "https://www.mdpi.com/2813-2564/3/2/11",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D044946",
+          "name": "Biflavonoids"
+        },
+        {
+          "ui": "D014151",
+          "name": "Anti-Anxiety Agents"
+        },
+        {
+          "ui": "D015027",
+          "name": "Zebrafish"
+        },
+        {
+          "ui": "D013375",
+          "name": "Substance Withdrawal Syndrome"
+        },
+        {
+          "ui": "D062105",
+          "name": "Molecular Docking Simulation"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3020010",
@@ -1503,7 +3460,31 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Steroid Hormone Receptors in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/10"
+      "url": "https://www.mdpi.com/2813-2564/3/2/10",
+      "pmid": "39175529",
+      "pmcid": "PMC11340209",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D047629",
+          "name": "Estrogen Receptor beta"
+        },
+        {
+          "ui": "D001943",
+          "name": "Breast Neoplasms"
+        },
+        {
+          "ui": "D004967",
+          "name": "Estrogens"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 621,
+          "name": "Estrogen receptor-β",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=621"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3020009",
@@ -1521,7 +3502,32 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Dopamine Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/9"
+      "url": "https://www.mdpi.com/2813-2564/3/2/9",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011954",
+          "name": "Receptors, Dopamine"
+        },
+        {
+          "ui": "D004298",
+          "name": "Dopamine"
+        },
+        {
+          "ui": "D001921",
+          "name": "Brain"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 20,
+          "name": "Dopamine receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=20"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3020008",
@@ -1539,7 +3545,25 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Receptor Tyrosine Kinases",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/8"
+      "url": "https://www.mdpi.com/2813-2564/3/2/8",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018358",
+          "name": "Neuroendocrine Tumors"
+        },
+        {
+          "ui": "D020794",
+          "name": "Receptor Protein-Tyrosine Kinases"
+        },
+        {
+          "ui": "D047428",
+          "name": "Protein Kinase Inhibitors"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3020007",
@@ -1558,7 +3582,25 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Tumor Immunity & Cell Therapies",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/2/7"
+      "url": "https://www.mdpi.com/2813-2564/3/2/7",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D007694",
+          "name": "Killer Cells, Natural"
+        },
+        {
+          "ui": "D002186",
+          "name": "Cannabinoids"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3010006",
@@ -1574,7 +3616,25 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Receptor Theory & General",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/1/6"
+      "url": "https://www.mdpi.com/2813-2564/3/1/6",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        },
+        {
+          "ui": "D015398",
+          "name": "Signal Transduction"
+        },
+        {
+          "ui": "D002462",
+          "name": "Cell Membrane"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3010005",
@@ -1592,7 +3652,39 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Receptor Tyrosine Kinases",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/1/5"
+      "url": "https://www.mdpi.com/2813-2564/3/1/5",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D020794",
+          "name": "Receptor Protein-Tyrosine Kinases"
+        },
+        {
+          "ui": "D048493",
+          "name": "Proto-Oncogene Proteins B-raf"
+        },
+        {
+          "ui": "D008545",
+          "name": "Melanoma"
+        },
+        {
+          "ui": "D015179",
+          "name": "Colorectal Neoplasms"
+        },
+        {
+          "ui": "D019008",
+          "name": "Drug Resistance, Neoplasm"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1943,
+          "name": "B-Raf proto-oncogene, serine/threonine kinase",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1943"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3010004",
@@ -1610,7 +3702,44 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Dopamine Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/1/4"
+      "url": "https://www.mdpi.com/2813-2564/3/1/4",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D017447",
+          "name": "Receptors, Dopamine D1"
+        },
+        {
+          "ui": "D017448",
+          "name": "Receptors, Dopamine D2"
+        },
+        {
+          "ui": "D017397",
+          "name": "Prefrontal Cortex"
+        },
+        {
+          "ui": "D004829",
+          "name": "Epilepsy, Generalized"
+        },
+        {
+          "ui": "D000067877",
+          "name": "Autism Spectrum Disorder"
+        },
+        {
+          "ui": "D001345",
+          "name": "Autoradiography"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 20,
+          "name": "Dopamine receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=20"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3010003",
@@ -1626,7 +3755,31 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Glucocorticoid & Mineralocorticoid Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/1/3"
+      "url": "https://www.mdpi.com/2813-2564/3/1/3",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011965",
+          "name": "Receptors, Glucocorticoid"
+        },
+        {
+          "ui": "D064267",
+          "name": "Intrinsically Disordered Proteins"
+        },
+        {
+          "ui": "D015533",
+          "name": "Transcriptional Activation"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 625,
+          "name": "Glucocorticoid receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=625"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors3010002",
@@ -1643,7 +3796,21 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "GPCR Pharmacology & Biased Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/1/2"
+      "url": "https://www.mdpi.com/2813-2564/3/1/2",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "ui": "D054313",
+          "name": "Drug Agonism"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors3010001",
@@ -1662,7 +3829,33 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Ligand-Gated Ion Channels (Glutamate, GABA, Nicotinic)",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/3/1/1"
+      "url": "https://www.mdpi.com/2813-2564/3/1/1",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D005473",
+          "name": "Fluoxetine"
+        },
+        {
+          "ui": "D005680",
+          "name": "gamma-Aminobutyric Acid"
+        },
+        {
+          "ui": "D006624",
+          "name": "Hippocampus"
+        },
+        {
+          "ui": "D009435",
+          "name": "Synaptic Transmission"
+        },
+        {
+          "ui": "D003865",
+          "name": "Major Depressive Disorder"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors2040018",
@@ -1686,7 +3879,36 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Inflammation & Immune Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/4/18"
+      "url": "https://www.mdpi.com/2813-2564/2/4/18",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D057105",
+          "name": "Nuclear Receptor Subfamily 4, Group A, Member 1"
+        },
+        {
+          "ui": "D022423",
+          "name": "Myeloid Cells"
+        },
+        {
+          "ui": "D018836",
+          "name": "Inflammation Mediators"
+        },
+        {
+          "ui": "D016328",
+          "name": "NF-kappa B"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 99,
+          "name": "4A. Nerve growth factor IB-like receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=99"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2040017",
@@ -1703,7 +3925,36 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Obesity, Diabetes & Metabolic Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/4/17"
+      "url": "https://www.mdpi.com/2813-2564/2/4/17",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "ui": "D013649",
+          "name": "Taste"
+        },
+        {
+          "ui": "D009765",
+          "name": "Obesity"
+        },
+        {
+          "ui": "D003920",
+          "name": "Diabetes Mellitus"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 117,
+          "name": "Taste 2 receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=117"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2040016",
@@ -1720,7 +3971,31 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Tachykinin (NK1) Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/4/16"
+      "url": "https://www.mdpi.com/2813-2564/2/4/16",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018040",
+          "name": "Receptors, Neurokinin-1"
+        },
+        {
+          "ui": "D013373",
+          "name": "Substance P"
+        },
+        {
+          "ui": "D000090862",
+          "name": "Neuroinflammatory Diseases"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 360,
+          "name": "NK1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=360"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2040015",
@@ -1737,7 +4012,39 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Tachykinin (NK1) Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/4/15"
+      "url": "https://www.mdpi.com/2813-2564/2/4/15",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018040",
+          "name": "Receptors, Neurokinin-1"
+        },
+        {
+          "ui": "D013373",
+          "name": "Substance P"
+        },
+        {
+          "ui": "D000070642",
+          "name": "Brain Injuries, Traumatic"
+        },
+        {
+          "ui": "D000070627",
+          "name": "Chronic Traumatic Encephalopathy"
+        },
+        {
+          "ui": "D007427",
+          "name": "Intracranial Pressure"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 360,
+          "name": "NK1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=360"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2040014",
@@ -1753,7 +4060,29 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Nuclear Receptors in Metabolism & Differentiation",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/4/14"
+      "url": "https://www.mdpi.com/2813-2564/2/4/14",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018160",
+          "name": "Receptors, Cytoplasmic and Nuclear"
+        },
+        {
+          "ui": "D002784",
+          "name": "Cholesterol"
+        },
+        {
+          "ui": "D050197",
+          "name": "Atherosclerosis"
+        },
+        {
+          "ui": "D064286",
+          "name": "ATP Binding Cassette Transporter 1"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors2030013",
@@ -1773,7 +4102,27 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Other Receptor Targets in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/3/13"
+      "url": "https://www.mdpi.com/2813-2564/2/3/13",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D058486",
+          "name": "Receptors, Purinergic P2X7"
+        },
+        {
+          "ui": "D009101",
+          "name": "Multiple Myeloma"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 484,
+          "name": "P2X7",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=484"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2030012",
@@ -1793,7 +4142,39 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Steroid Hormone Receptors in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/3/12"
+      "url": "https://www.mdpi.com/2813-2564/2/3/12",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D047629",
+          "name": "Estrogen Receptor beta"
+        },
+        {
+          "ui": "D011471",
+          "name": "Prostatic Neoplasms"
+        },
+        {
+          "ui": "D019008",
+          "name": "Drug Resistance, Neoplasm"
+        },
+        {
+          "ui": "D014411",
+          "name": "Neoplastic Stem Cells"
+        },
+        {
+          "ui": "D020033",
+          "name": "Protein Isoforms"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 621,
+          "name": "Estrogen receptor-β",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=621"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2030011",
@@ -1809,7 +4190,31 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Glucocorticoid & Mineralocorticoid Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/3/11"
+      "url": "https://www.mdpi.com/2813-2564/2/3/11",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011965",
+          "name": "Receptors, Glucocorticoid"
+        },
+        {
+          "ui": "D018160",
+          "name": "Receptors, Cytoplasmic and Nuclear"
+        },
+        {
+          "ui": "D018360",
+          "name": "Crystallography, X-Ray"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 625,
+          "name": "Glucocorticoid receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=625"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2020010",
@@ -1825,7 +4230,29 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Computational, Structural & Biophysical Methods",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/2/10"
+      "url": "https://www.mdpi.com/2813-2564/2/2/10",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        },
+        {
+          "ui": "D004705",
+          "name": "Endocytosis"
+        },
+        {
+          "ui": "D011992",
+          "name": "Endosomes"
+        },
+        {
+          "ui": "D021381",
+          "name": "Protein Transport"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors2020009",
@@ -1843,7 +4270,45 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Aryl Hydrocarbon Receptor",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/2/9"
+      "url": "https://www.mdpi.com/2813-2564/2/2/9",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018336",
+          "name": "Receptors, Aryl Hydrocarbon"
+        },
+        {
+          "ui": "D020880",
+          "name": "Neuregulins"
+        },
+        {
+          "ui": "D066246",
+          "name": "ErbB Receptors"
+        },
+        {
+          "ui": "D002450",
+          "name": "Cell Communication"
+        },
+        {
+          "ui": "D017423",
+          "name": "Sequence Analysis, RNA"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 2951,
+          "name": "aryl hydrocarbon receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2951"
+        },
+        {
+          "id": 320,
+          "name": "Type I RTKs: ErbB (epidermal growth factor) receptor family",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=320"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2020008",
@@ -1861,7 +4326,28 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Other Systemic Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/2/8"
+      "url": "https://www.mdpi.com/2813-2564/2/2/8",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D044094",
+          "name": "Receptors, Melatonin"
+        },
+        {
+          "ui": "D008550",
+          "name": "Melatonin"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 39,
+          "name": "Melatonin receptors",
+          "type": "family",
+          "url": "https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=39"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2010007",
@@ -1878,7 +4364,44 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Reproductive Endocrinology",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/1/7"
+      "url": "https://www.mdpi.com/2813-2564/2/1/7",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011960",
+          "name": "Receptors, Estrogen"
+        },
+        {
+          "ui": "D047628",
+          "name": "Estrogen Receptor alpha"
+        },
+        {
+          "ui": "D047629",
+          "name": "Estrogen Receptor beta"
+        },
+        {
+          "ui": "D005298",
+          "name": "Fertility"
+        },
+        {
+          "ui": "D018345",
+          "name": "Mice, Knockout"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 620,
+          "name": "Estrogen receptor-α",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=620"
+        },
+        {
+          "id": 621,
+          "name": "Estrogen receptor-β",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=621"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2010006",
@@ -1899,7 +4422,35 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Aryl Hydrocarbon Receptor",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/1/6"
+      "url": "https://www.mdpi.com/2813-2564/2/1/6",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018336",
+          "name": "Receptors, Aryl Hydrocarbon"
+        },
+        {
+          "ui": "D006412",
+          "name": "Hematopoietic Stem Cells"
+        },
+        {
+          "ui": "D064096",
+          "name": "Aurora Kinase A"
+        },
+        {
+          "ui": "D006410",
+          "name": "Hematopoiesis"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 2951,
+          "name": "aryl hydrocarbon receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2951"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2010005",
@@ -1923,7 +4474,31 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "LXR & AhR Signaling in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/1/5"
+      "url": "https://www.mdpi.com/2813-2564/2/1/5",
+      "pmid": "38651159",
+      "pmcid": "PMC11034912",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018336",
+          "name": "Receptors, Aryl Hydrocarbon"
+        },
+        {
+          "ui": "D003110",
+          "name": "Colonic Neoplasms"
+        },
+        {
+          "ui": "D003106",
+          "name": "Colon"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 2951,
+          "name": "aryl hydrocarbon receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2951"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2010004",
@@ -1959,7 +4534,31 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Computational, Structural & Biophysical Methods",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/1/4"
+      "url": "https://www.mdpi.com/2813-2564/2/1/4",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043705",
+          "name": "Receptor, Adenosine A2A"
+        },
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "ui": "D001703",
+          "name": "Biophysics"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 19,
+          "name": "A2A receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=19"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2010003",
@@ -1977,7 +4576,48 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "LXR & AhR Signaling in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/1/3"
+      "url": "https://www.mdpi.com/2813-2564/2/1/3",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D000071518",
+          "name": "Liver X Receptors"
+        },
+        {
+          "ui": "D021441",
+          "name": "Carcinoma, Pancreatic Ductal"
+        },
+        {
+          "ui": "D010190",
+          "name": "Pancreatic Neoplasms"
+        },
+        {
+          "ui": "D002784",
+          "name": "Cholesterol"
+        },
+        {
+          "ui": "D017209",
+          "name": "Apoptosis"
+        },
+        {
+          "ui": "D000079302",
+          "name": "Necroptosis"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 602,
+          "name": "Liver X receptor-α",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=602"
+        },
+        {
+          "id": 601,
+          "name": "Liver X receptor-β",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=601"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2010001",
@@ -1995,7 +4635,31 @@
       "category": "Metabolism, Endocrinology & Systemic Receptors",
       "subcategory": "Aryl Hydrocarbon Receptor",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/1/1"
+      "url": "https://www.mdpi.com/2813-2564/2/1/1",
+      "pmid": "37284280",
+      "pmcid": "PMC10240927",
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018336",
+          "name": "Receptors, Aryl Hydrocarbon"
+        },
+        {
+          "ui": "D065626",
+          "name": "Non-alcoholic Fatty Liver Disease"
+        },
+        {
+          "ui": "D008099",
+          "name": "Liver"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 2951,
+          "name": "aryl hydrocarbon receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2951"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors2010002",
@@ -2012,7 +4676,25 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "GPCR Pharmacology & Biased Signaling",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/2/1/2"
+      "url": "https://www.mdpi.com/2813-2564/2/1/2",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "ui": "D055808",
+          "name": "Drug Discovery"
+        },
+        {
+          "ui": "D054333",
+          "name": "Drug Partial Agonism"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors1010006",
@@ -2029,7 +4711,35 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Tachykinin (NK1) Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/1/1/6"
+      "url": "https://www.mdpi.com/2813-2564/1/1/6",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018040",
+          "name": "Receptors, Neurokinin-1"
+        },
+        {
+          "ui": "D013373",
+          "name": "Substance P"
+        },
+        {
+          "ui": "D005123",
+          "name": "Eye"
+        },
+        {
+          "ui": "D003315",
+          "name": "Cornea"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 360,
+          "name": "NK1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=360"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors1010005",
@@ -2047,7 +4757,35 @@
       "category": "Oncology & Receptor-Targeted Therapies",
       "subcategory": "Other Receptor Targets in Cancer",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/1/1/5"
+      "url": "https://www.mdpi.com/2813-2564/1/1/5",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018040",
+          "name": "Receptors, Neurokinin-1"
+        },
+        {
+          "ui": "D013373",
+          "name": "Substance P"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D064729",
+          "name": "Neurokinin-1 Receptor Antagonists"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 360,
+          "name": "NK1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=360"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors1010004",
@@ -2064,7 +4802,31 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Tachykinin (NK1) Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/1/1/4"
+      "url": "https://www.mdpi.com/2813-2564/1/1/4",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D018040",
+          "name": "Receptors, Neurokinin-1"
+        },
+        {
+          "ui": "D013373",
+          "name": "Substance P"
+        },
+        {
+          "ui": "D015398",
+          "name": "Signal Transduction"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 360,
+          "name": "NK1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=360"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors1010003",
@@ -2081,7 +4843,29 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Receptor Theory & General",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/1/1/3"
+      "url": "https://www.mdpi.com/2813-2564/1/1/3",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D004247",
+          "name": "DNA"
+        },
+        {
+          "ui": "D012313",
+          "name": "RNA"
+        },
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        },
+        {
+          "ui": "D005057",
+          "name": "Eukaryotic Cells"
+        }
+      ],
+      "iuphar_targets": []
     },
     {
       "doi": "10.3390/receptors1010002",
@@ -2098,7 +4882,31 @@
       "category": "Neuroscience & Neuropharmacology",
       "subcategory": "Cannabinoid Receptors",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/1/1/2"
+      "url": "https://www.mdpi.com/2813-2564/1/1/2",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043884",
+          "name": "Receptor, Cannabinoid, CB1"
+        },
+        {
+          "ui": "D002186",
+          "name": "Cannabinoids"
+        },
+        {
+          "ui": "D013759",
+          "name": "Dronabinol"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 56,
+          "name": "CB1 receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=56"
+        }
+      ]
     },
     {
       "doi": "10.3390/receptors1010001",
@@ -2114,7 +4922,25 @@
       "category": "Immunity, Viral Receptors & Methodology",
       "subcategory": "Receptor Theory & General",
       "doi_resolves": true,
-      "url": "https://www.mdpi.com/2813-2564/1/1/1"
+      "url": "https://www.mdpi.com/2813-2564/1/1/1",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        },
+        {
+          "ui": "D018160",
+          "name": "Receptors, Cytoplasmic and Nuclear"
+        },
+        {
+          "ui": "D055808",
+          "name": "Drug Discovery"
+        }
+      ],
+      "iuphar_targets": []
     }
   ]
 }

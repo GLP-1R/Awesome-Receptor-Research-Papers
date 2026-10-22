@@ -35,7 +35,6 @@ Every entry links to its DOI. Papers are grouped into four main categories and s
   - [GPCR Pharmacology & Biased Signaling](#gpcr-pharmacology--biased-signaling)
   - [Computational, Structural & Biophysical Methods](#computational-structural--biophysical-methods)
   - [Receptor Theory & General](#receptor-theory--general)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Neuroscience & Neuropharmacology
@@ -230,12 +229,8 @@ Every entry links to its DOI. Papers are grouped into four main categories and s
 - [Novel Cell Receptor System of Eukaryotes Formed by Previously Unknown Nucleic Acid-Based Receptors](https://doi.org/10.3390/receptors1010003) - Victor Tetz and George Tetz. *Receptors* 2022, 1(1), 3.
 - [Excited about Receptors](https://doi.org/10.3390/receptors1010001) - Stephen Safe. *Receptors* 2022, 1(1), 1.
 
-## Contributing
-
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this list. See [LICENSE](LICENSE). Linked papers remain under their own licenses.
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this list. See [LICENSE](LICENSE). Linked papers remain under their own licenses.

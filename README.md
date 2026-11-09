@@ -2,7 +2,7 @@
 
 > A curated, categorized list of papers published in the MDPI journal [*Receptors*](https://www.mdpi.com/journal/receptors) (ISSN 2813-2564).
 
-Every entry links to its DOI. Papers are grouped into four main categories and sorted newest first within each subcategory. Covers 109 papers published from 2022-05-13 to 2026-10-09. A machine-readable copy is in [papers.json](papers.json).
+Every entry links to its DOI. Papers are grouped into four main categories and sorted newest first within each subcategory. Covers 112 papers published from 2022-05-13 to 2026-11-03. A machine-readable copy is in [papers.json](papers.json).
 
 ## Contents
 
@@ -125,6 +125,7 @@ Every entry links to its DOI. Papers are grouped into four main categories and s
 
 ### Other Receptor Targets in Cancer
 
+- [EGFR, HER2, ER, and AR Signaling in Cancer: Dysregulation, Therapeutic Resistance, and Targeted Therapies](https://doi.org/10.3390/receptors5040035) - Manikantha Dunna et al.. *Receptors* 2026, 5(4), 35.
 - [PIEZO Channels in Breast Cancer: Emerging Roles and Therapeutic Potential](https://doi.org/10.3390/receptors5020019) - Elizabeth Adams et al.. *Receptors* 2026, 5(2), 19.
 - [Odorant Receptors and Cancer](https://doi.org/10.3390/receptors4020011) - Rafaella G. Naressi, Bettina Malnic and Luciana M. Gutiyama. *Receptors* 2025, 4(2), 11.
 - [Bioelectric Membrane Potential and Breast Cancer: Advances in Neuroreceptor Pharmacology for Targeted Therapeutic Strategies](https://doi.org/10.3390/receptors4020009) - Chitaranjan Mahapatra et al.. *Receptors* 2025, 4(2), 9.
@@ -196,6 +197,7 @@ Every entry links to its DOI. Papers are grouped into four main categories and s
 
 ### Pattern Recognition Receptors
 
+- [Differential TLR2- and TLR4-Associated Oxidative Responses After Bariatric Surgery: A Cross-Sectional Study in Women](https://doi.org/10.3390/receptors5040034) - Regiane Penaforte Santos et al.. *Receptors* 2026, 5(4), 34.
 - [The Role of Toll-like Receptors (TLRs) in Fish Immunity](https://doi.org/10.3390/receptors5030025) - Surajit Ghosh et al.. *Receptors* 2026, 5(3), 25.
 - [Protective and Detrimental Roles of NLRP6 in Infection and Cancer](https://doi.org/10.3390/receptors5030023) - Takayoshi Yamauchi, Vaibhav Jain and Simon G. Gregory. *Receptors* 2026, 5(3), 23.
 - [Classical Immune Pattern Recognition Receptors Involved in Inflammatory Trigger of Sickle Cell Anemia](https://doi.org/10.3390/receptors5020014) - Hershiley Oliveira Jácome, Jonatas Alencar Castro Campelo and Alexander Leonardo Silva-Junior. *Receptors* 2026, 5(2), 14.
@@ -224,6 +226,7 @@ Every entry links to its DOI. Papers are grouped into four main categories and s
 
 ### Receptor Theory & General
 
+- [Receptors: A Historical Journey, Current Landscape and Future Trajectories in Molecular Biology and Medicine](https://doi.org/10.3390/receptors5040033) - Hippolyte Personne, David Kreutter and Kapila Gunasekera. *Receptors* 2026, 5(4), 33.
 - [Intracellular ATP Levels: Challenge to the Current Consensus and Its Implications for Intracellular Signaling](https://doi.org/10.3390/receptors3040027) - Ferenc A. Antoni. *Receptors* 2024, 3(4), 27.
 - [Fundamental Mechanisms in Membrane Receptology: Old Paradigms, New Concepts and Perspectives](https://doi.org/10.3390/receptors3010006) - Jacques Fantini. *Receptors* 2024, 3(1), 6.
 - [Novel Cell Receptor System of Eukaryotes Formed by Previously Unknown Nucleic Acid-Based Receptors](https://doi.org/10.3390/receptors1010003) - Victor Tetz and George Tetz. *Receptors* 2022, 1(1), 3.

@@ -2,8 +2,186 @@
   "journal": "Receptors (MDPI)",
   "issn": "2813-2564",
   "source": "Crossref API",
-  "generated": "2026-10-23",
+  "generated": "2026-11-09",
   "papers": [
+    {
+      "doi": "10.3390/receptors5040034",
+      "title": "Differential TLR2- and TLR4-Associated Oxidative Responses After Bariatric Surgery: A Cross-Sectional Study in Women",
+      "authors": [
+        "Regiane Penaforte Santos",
+        "Júlia Vieira Carvalho",
+        "Amanda Medeiros Frota Cruz",
+        "Luciana Ferreira Antunes",
+        "Juliana Silveira Gontijo Rigueira",
+        "Cláudia Maria Andrade Fernandes Vieira",
+        "Edmarcio Olinto da Fonseca",
+        "Caroline Maria de Oliveira Volpe"
+      ],
+      "year": 2026,
+      "volume": "5",
+      "issue": "4",
+      "article_number": "34",
+      "published_date": "2026-11-03",
+      "category": "Immunity, Viral Receptors & Methodology",
+      "subcategory": "Pattern Recognition Receptors",
+      "doi_resolves": true,
+      "url": "https://www.mdpi.com/2813-2564/5/4/34",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D051195",
+          "name": "Toll-Like Receptor 2"
+        },
+        {
+          "ui": "D051197",
+          "name": "Toll-Like Receptor 4"
+        },
+        {
+          "ui": "D050110",
+          "name": "Bariatric Surgery"
+        },
+        {
+          "ui": "D009765",
+          "name": "Obesity"
+        },
+        {
+          "ui": "D017382",
+          "name": "Reactive Oxygen Species"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1752,
+          "name": "TLR2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1752"
+        },
+        {
+          "id": 1754,
+          "name": "TLR4",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1754"
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/receptors5040035",
+      "title": "EGFR, HER2, ER, and AR Signaling in Cancer: Dysregulation, Therapeutic Resistance, and Targeted Therapies",
+      "authors": [
+        "Manikantha Dunna",
+        "Shivani Munagala",
+        "Merit Kayastha",
+        "Srinithya Paruchuri",
+        "Sona Sara Thomas",
+        "Jayendra Chunduru",
+        "Kalyani Chepuri",
+        "Naresh Sah"
+      ],
+      "year": 2026,
+      "volume": "5",
+      "issue": "4",
+      "article_number": "35",
+      "published_date": "2026-11-03",
+      "category": "Oncology & Receptor-Targeted Therapies",
+      "subcategory": "Other Receptor Targets in Cancer",
+      "doi_resolves": true,
+      "url": "https://www.mdpi.com/2813-2564/5/4/35",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D066246",
+          "name": "ErbB Receptors"
+        },
+        {
+          "ui": "D011960",
+          "name": "Receptors, Estrogen"
+        },
+        {
+          "ui": "D011944",
+          "name": "Receptors, Androgen"
+        },
+        {
+          "ui": "D009369",
+          "name": "Neoplasms"
+        },
+        {
+          "ui": "D019008",
+          "name": "Drug Resistance, Neoplasm"
+        },
+        {
+          "ui": "D058990",
+          "name": "Molecular Targeted Therapy"
+        }
+      ],
+      "iuphar_targets": [
+        {
+          "id": 1797,
+          "name": "epidermal growth factor receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=1797"
+        },
+        {
+          "id": 2019,
+          "name": "erb-b2 receptor tyrosine kinase 2",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2019"
+        },
+        {
+          "id": 620,
+          "name": "Estrogen receptor-α",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=620"
+        },
+        {
+          "id": 628,
+          "name": "Androgen receptor",
+          "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=628"
+        }
+      ]
+    },
+    {
+      "doi": "10.3390/receptors5040033",
+      "title": "Receptors: A Historical Journey, Current Landscape and Future Trajectories in Molecular Biology and Medicine",
+      "authors": [
+        "Hippolyte Personne",
+        "David Kreutter",
+        "Kapila Gunasekera"
+      ],
+      "year": 2026,
+      "volume": "5",
+      "issue": "4",
+      "article_number": "33",
+      "published_date": "2026-10-31",
+      "category": "Immunity, Viral Receptors & Methodology",
+      "subcategory": "Receptor Theory & General",
+      "doi_resolves": true,
+      "url": "https://www.mdpi.com/2813-2564/5/4/33",
+      "pmid": null,
+      "pmcid": null,
+      "mesh_source": "curated",
+      "mesh": [
+        {
+          "ui": "D043562",
+          "name": "Receptors, G-Protein-Coupled"
+        },
+        {
+          "ui": "D011956",
+          "name": "Receptors, Cell Surface"
+        },
+        {
+          "ui": "D055808",
+          "name": "Drug Discovery"
+        },
+        {
+          "ui": "D015398",
+          "name": "Signal Transduction"
+        },
+        {
+          "ui": "D006666",
+          "name": "History of Medicine"
+        }
+      ],
+      "iuphar_targets": []
+    },
     {
       "doi": "10.3390/receptors5040032",
       "title": "On the Structural Precision Required for Ligand-Specific Elastic Network Dynamics of AI Co-Folded GPCR Structures",
